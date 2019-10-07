@@ -9,5 +9,5 @@
 #配置论文，记录保存路径
 from easydict import EasyDict
 cf=EasyDict()
-cf.paperPath="H:\paperPath"
-cf.record=r"H:\record"
+cf.paperPath="D:\spider\paperPath"
+cf.record=r"D:\spider\record"
